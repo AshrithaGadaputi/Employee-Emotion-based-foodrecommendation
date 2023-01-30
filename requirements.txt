@@ -63,7 +63,6 @@ statsmodels==0.13.2
 streamlit==1.17.0
 streamlit-authenticator==0.2.1
 tables==3.6.1
-TBB==0.2
 tensorboard==2.11.2
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
